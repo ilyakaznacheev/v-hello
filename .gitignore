@@ -1,0 +1,5 @@
+*dSYM/*
+hello
+.*
+!.dockerignore
+!.gitignore
